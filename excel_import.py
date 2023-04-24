@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # Define the directory where your Excel files are located
-data_path = "/Users//niallwhelan/Projects/Play/Python/excelpro/data"
-analysis_path = "/Users//niallwhelan/Projects/Play/Python/excelpro/analysis"
+data_path = "/Users//niallwhelan/Projects/excelpro/excelpro/data"
+analysis_path = "/Users//niallwhelan/Projects/excelpro/excelpro/analysis"
 
 
 def check_data_path(data_path):
